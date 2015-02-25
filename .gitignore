@@ -1,0 +1,5 @@
+
+# Ignore all files and folders that not needed on this project git
+
+.idea
+
